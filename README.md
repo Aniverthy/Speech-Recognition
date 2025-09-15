@@ -1,5 +1,5 @@
 # Voice Recognition System
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 A modular, production-ready voice recognition system using **faster-whisper** for ASR and **Resemblyzer** for voice embeddings.
 
 ## Features
